@@ -134,4 +134,4 @@ Built an interactive dashboard with:
 ---
 
 ## 👨‍💻 Author
-- **LinkedIn:** linkedin.com/in/yashkumarsabhadiya/
+- **LinkedIn:** linkedin.com/in/yashkumarsabhadiya
